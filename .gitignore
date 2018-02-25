@@ -1,0 +1,11 @@
+CMakeCache.txt
+CMakeLists.txt~
+*/8~
+inc/analyzer.h~ inc/node.h~ src/CMakeLists.txt~
+src/main/analyzer.cpp~ src/main/CMakeLists.txt~ src/main/main.cpp~ src/main/node.cpp~
+CMakeLists.txt~
+*~
+CMakeFiles*
+*.cmake
+*Makefile
+src/main/main
